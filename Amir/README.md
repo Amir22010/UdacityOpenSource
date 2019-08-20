@@ -6,6 +6,8 @@
 
 # Homomorphic Encryption use one of its alogorithm Paillier Cryptography For Model and Prediction Encryption
 
+## Learn More About [Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) 
+
 ## Before Homomorphic Encryption
 
 - people can see predictions and modify it as per their requiement to false others, predictions get Faked 
