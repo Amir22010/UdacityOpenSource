@@ -2,7 +2,7 @@
 
 ## WEB APP PROJECT IS ABOUT - SAFE AI EMAIL SPAM/HAM MODELLING AND PREDICTION
 
-# @inspired by Andrew Trask @iamtrask [blog](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance/){:target="_blank"}
+# @inspired by Andrew Trask @iamtrask [blog](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance/?target=_blank)
 
 # Homomorphic Encryption use one of its alogorithm Paillier Cryptography For Model and Prediction Encryption
 
